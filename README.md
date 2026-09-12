@@ -94,6 +94,7 @@ Existential Toasts: Clicking the wrong call buttons in the contact list displays
 Inverted Mute: The mute icon and label always show the opposite of your actual microphone state.
 
 Fake call:: A fake call is initiated at a specific interval.
+
 Made with ❤️ at TinkerHub Useless Projects 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
