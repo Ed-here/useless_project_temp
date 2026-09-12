@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\raw_funny_audio_2.mp3.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\raw\\funny_audio_2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\raw_funny_audio_3.mp3.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\raw\\funny_audio_3.mp3"
+    },
+    {
+        "merged": "com.example.phonedialer.app-debug-53:/raw_funny_audio_4.mp3.flat",
+        "source": "com.example.phonedialer.app-main-55:/raw/funny_audio_4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-debug-53:\\raw_funny_audio_1.mp3.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.3.0\\com.example.phonedialer.app-main-55:\\raw\\funny_audio_1.mp3"
+    }
+]

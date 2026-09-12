@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="phone_green">#4CAF50</color>
+    <color name="phone_red">#F44336</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Dialer</string>
+    <string name="default_dialer_description">To handle live calls and show custom in-call UI, please set Custom Phone as your default dialer.</string>
+    <string name="search_contacts_hint">Search contacts by name or number...</string>
+    <string name="set_as_default_dialer">Set as Default Dialer</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="tab_keypad">Keypad</string>
+    <string name="tab_recents">Recents</string>
+    <string name="tab_speed_dial">Speed Dial</string>
+    <style name="Theme.AndroidPhoneDialer" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>

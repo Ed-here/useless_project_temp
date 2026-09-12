@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color phone_green
+color phone_red
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+mipmap ic_launcher
+raw funny_audio_1
+raw funny_audio_2
+raw funny_audio_3
+raw funny_audio_4
+string app_name
+string default_dialer_description
+string search_contacts_hint
+string set_as_default_dialer
+string tab_contacts
+string tab_keypad
+string tab_recents
+string tab_speed_dial
+style Theme.AndroidPhoneDialer
+xml backup_rules
+xml data_extraction_rules

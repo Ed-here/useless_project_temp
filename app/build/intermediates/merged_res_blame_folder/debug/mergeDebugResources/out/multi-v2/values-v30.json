@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.phonedialer.app-mergeDebugResources-51:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\9.3.0\\transforms\\2aabc212ba8ef7366d27ac98f26e3050\\workspace\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
