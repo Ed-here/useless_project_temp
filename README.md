@@ -4,13 +4,13 @@
 
 
 
-# [Project Name] 🎯
+# Dialer 🎯
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PHOENIX
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Edwin Sebastian--College Of Engineering Trivandrum
+- Member 2: Devangana U--College Of Engineering Trivandrum
+
 ### Project Description
 Dialer is a revolutionary Android application designed to test the limits of human patience and social anxiety. It transforms the mundane task of making a phone call into a high-stakes psychological thriller, featuring deceptive UI patterns, reversed logic, and a "Random Dialer" algorithm that ensures you never actually talk to the person you intended to.
 ### The Problem (that doesn't exist)
@@ -52,9 +52,7 @@ Tools: Android Studio Ladybug, Gradle (Kotlin DSL), ADB.
 For Software:
 # Installation
 1.
-Clone the repository:
-
-git clone https://github.com/yourusername/android-phonedialer.
+Clone the repository
 
 2.
 
@@ -65,6 +63,8 @@ Add your "Funny Audio" clips to app/src/main/res/raw/ (named funny_audio_1 throu
 
 4.
 Sync Gradle and let the chaos begin.
+
+OR:: You can Download The APK file.
 # Run
 Run
 1.
